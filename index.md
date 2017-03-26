@@ -1,3 +1,3 @@
-Ein Projekt nicht nur für Fischköppe, Nordlichter und Klippenkotzer!
+Ein Projekt nicht nur für Fischk&uuml;ppe, Nordlichter und Klippenkotzer!
 
 
