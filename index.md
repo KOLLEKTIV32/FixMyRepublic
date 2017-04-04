@@ -10,5 +10,5 @@ Mit diesem Projekt wird die Qualität von Informationen, Vorschlägen und Argume
 
 "In einer echten Demokratie strebt der Mensch gleichberechtigt, frei und solidarisch danach, Schmerz zu vermeiden und Glück zu vermehren."
 
-Elementare, weiterführende Infos zu dem Projekt gibt es [»hier«].(https://github.com/KOLLEKTIV32/FixMyRepublic/wiki)
+Elementare, weiterführende Infos zu dem Projekt gibt es [»hier«](https://github.com/KOLLEKTIV32/FixMyRepublic/wiki).
 
